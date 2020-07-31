@@ -1,1 +1,1 @@
-# claro
+# claro-avatar
