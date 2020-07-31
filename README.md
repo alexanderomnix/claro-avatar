@@ -17,7 +17,7 @@ Vermelho:
 
 [omnix-vb-cto-v1.css](https://alexanderomnix.github.io/claro-avatar/red/omnix-vb-cto-v1.css)
 
-[avatar_red.png](https://alexanderomnix.github.io/claro-avatar/grey/avatar_red.png)
+[avatar_red.png](https://alexanderomnix.github.io/claro-avatar/red/avatar_red.png)
 
 importar estilos:
 
