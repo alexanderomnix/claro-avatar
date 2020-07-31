@@ -4,13 +4,20 @@
 
 [Exemplo vermelho](https://alexanderomnix.github.io/claro-avatar/red/)
 
-Baixe e adicione o arquivo de estilo nos assets do site, uma das opções abaixo:
+Baixe e adicione o arquivo de estilo e a imagem correspondente aos assets:
 
 Cinza:
+
 [omnix-vb-cto-v1.css](https://alexanderomnix.github.io/claro-avatar/grey/omnix-vb-cto-v1.css)
 
+[avatar_grey.png](https://alexanderomnix.github.io/claro-avatar/grey/avatar_grey.png)
+
+
 Vermelho:
+
 [omnix-vb-cto-v1.css](https://alexanderomnix.github.io/claro-avatar/red/omnix-vb-cto-v1.css)
+
+[avatar_red.png](https://alexanderomnix.github.io/claro-avatar/grey/avatar_red.png)
 
 importar estilos:
 
