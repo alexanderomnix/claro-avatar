@@ -25,7 +25,7 @@ importar estilos:
 
 Adicione a tag Anchor no final do body da página:
 
-    <a href="https://assistentevirtual.azurewebsites.net/claro/universal/?oficial" class="videobot-float" target="_blank"> </a>
+    <a href="https://assistentevirtual.azurewebsites.net/claro/universal/?oficial" onclick="window.open(this.href, 'Claro', 'left=400,top=100,width=600,height=420,toolbar=1,resizable=0'); return false;" class="videobot-float">
 
 Exemplo para inner html dev tools:
 
