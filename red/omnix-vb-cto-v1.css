@@ -1,7 +1,7 @@
 @keyframes pulsation {
   0% {
-    -moz-box-shadow: 0 0 0 0 #8f979c;
-    box-shadow: 0 0 0 0 #a3acb2;
+    -moz-box-shadow: 0 0 0 0 #e32620;
+    box-shadow: 0 0 0 0 #e32620;
   }
   60% {
     box-shadow: 0 0 0 10px rgba(203, 169, 44, 0);
@@ -12,7 +12,7 @@
 }
 .videobot-float {
   animation: pulsation 2.5s infinite;
-  background-image: url("/avatar_red.png");
+  background-image: url("/red/avatar_red.png");
   background-size: 90px;
   background-position: center center;
   position: fixed;
